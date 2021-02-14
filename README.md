@@ -1,3 +1,3 @@
 # **Python**
 
-Estudos em Python
+Estudos, atividades feitos em *Pyhton*. 
